@@ -8,7 +8,7 @@ const Users = () => {
       name: "Soumodeep Maity",
       image:
         "https://i.ibb.co/pXfZN2t/irene-strong-v2a-Knj-Mb-P-k-unsplash.jpg",
-      places: 3,
+      places: 4,
     },
   ];
 
