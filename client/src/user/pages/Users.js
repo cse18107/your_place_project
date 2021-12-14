@@ -10,6 +10,7 @@ const Users = () => {
         "https://i.ibb.co/pXfZN2t/irene-strong-v2a-Knj-Mb-P-k-unsplash.jpg",
       places: 4,
     },
+    
   ];
 
   return <UsersList items={USERS} />;
