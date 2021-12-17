@@ -17,6 +17,7 @@ const MainNavigation = (props) => {
 
   const closeDrawerHandler = () =>{
     setDrawerIsOpen(false);
+
   }
 
   return (
